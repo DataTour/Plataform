@@ -9,6 +9,4 @@ const restrict = Router()
 restrict.get('/app', Middleware.auth, UsersController.index)
 
 
-restrict.post('/')
-
 export default restrict
