@@ -10,8 +10,32 @@ Flow Charts -> Lógica utilizada na aplicação.<br>
 
 <img src="https://i.imgur.com/ESYEYjp.jpg">
 
-API DASHBOARD EXEMLE: <br>
+API DASHBOARD EXEMLEO: <br>
 <img src="https://i.imgur.com/FlpWg4P.png" width="600px">
 
 
 <img src="https://i.imgur.com/W88E9l6.png" width="300px">
+
+
+Available Scripts
+In the project directory, you can run:
+
+yarn start
+Runs the app in the development mode.
+Open http://localhost:3333 to view it in the browser.
+
+The page will reload if you make edits.
+You will also see any lint errors in the console.
+
+yarn test
+Launches the test runner in the interactive watch mode.
+See the section about running tests for more information.
+
+yarn build
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.
+Your app is ready to be deployed!
+
+See the section about deployment for more information.
