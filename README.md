@@ -13,7 +13,7 @@ Flow Charts -> Lógica utilizada na aplicação.<br>
 <h3>API DASHBOARD EXEMLPLO</h3><br>
 <img src="https://i.imgur.com/FlpWg4P.png" width="600px">
 
-
+<h3>Data Tour Insights - Previsão da Demanda de Hospedagens e Reveneu Managment  (Sugestão de precificação )</h3>
 <img src="https://i.imgur.com/W88E9l6.png" width="300px">
 
 
