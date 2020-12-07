@@ -10,6 +10,7 @@ Flow Charts -> Lógica utilizada na aplicação.<br>
 
 <img src="https://i.imgur.com/ESYEYjp.jpg">
 
+API DASHBOARD EXEMLE: <br>
 <img src="https://i.imgur.com/FlpWg4P.png" width="600px">
 
 
